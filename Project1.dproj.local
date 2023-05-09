@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/08 22:23:19.000.719,=C:\Users\Mávery Vargas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/08 23:35:00.000.305,C:\Users\Mávery Vargas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Mávery Vargas\OneDrive\Área de Trabalho\CalcDelphi\CalcDelphi.dfm</Transaction>
+    <Transaction>2023/05/08 23:35:00.000.305,C:\Users\Mávery Vargas\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Mávery Vargas\OneDrive\Área de Trabalho\CalcDelphi\CalcDelphi.pas</Transaction>
+    <Transaction>2023/05/08 23:36:00.000.795,C:\Users\Mávery Vargas\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Mávery Vargas\OneDrive\Área de Trabalho\CalcDelphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
